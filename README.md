@@ -1,16 +1,20 @@
 # 👩‍💻 Mini Portfólio — MapaDev Week
 
-Mini portfólio desenvolvido durante meus estudos iniciais de desenvolvimento Front-end.
+Mini portfólio desenvolvido durante a **MapaDev Week**, evento promovido pelo **Dev em Dobro**, em 2022.
 
-O projeto apresenta informações pessoais, uma seção sobre mim e links para minhas redes através de uma interface em formato de cartão.
+O projeto foi utilizado como prática de **HTML, CSS e JavaScript**, com o objetivo de criar uma página pessoal interativa contendo informações sobre mim e links para minhas redes.
 
 ---
 
 ## 📸 Preview
 
+### Sobre mim
+
 <p align="center">
   <img src="./src/assets/Sobre-mim.png" alt="Mini Portfólio - Sobre mim" width="700">
 </p>
+
+### Minhas redes
 
 <p align="center">
   <img src="./src/assets/Redes-sociais.png" alt="Mini Portfólio - Redes sociais" width="700">
@@ -20,13 +24,13 @@ O projeto apresenta informações pessoais, uma seção sobre mim e links para m
 
 ## 💻 Sobre o projeto
 
-Este projeto foi desenvolvido durante a **MapaDev Week** com o objetivo de praticar conceitos fundamentais de desenvolvimento web.
+Este projeto foi desenvolvido durante a **MapaDev Week**, evento realizado pelo **Dev em Dobro**.
 
-A interface funciona como um pequeno cartão de apresentação digital.
+Durante as aulas, acompanhei a construção de um mini portfólio utilizando **HTML, CSS e JavaScript**, aplicando os conceitos apresentados para criar minha própria versão da página.
 
-O usuário pode alternar entre diferentes abas para visualizar informações pessoais e links para redes profissionais.
+O projeto possui uma interface em formato de cartão, com abas para apresentar informações pessoais e links para redes sociais.
 
-Este projeto representa uma etapa dos meus primeiros estudos em programação e permanece no meu GitHub como registro da minha evolução.
+Mantive este projeto no GitHub como registro dos meus primeiros estudos de desenvolvimento Front-end e da minha evolução na programação.
 
 ---
 
@@ -45,7 +49,8 @@ Este projeto representa uma etapa dos meus primeiros estudos em programação e 
 - Aba de redes sociais
 - Navegação entre abas
 - Links externos
-- Interface estilizada em formato de cartão
+- Interface em formato de cartão
+- Interações utilizando JavaScript
 
 ---
 
@@ -59,16 +64,41 @@ Este projeto representa uma etapa dos meus primeiros estudos em programação e 
 
 ## 📚 O que pratiquei
 
+Durante o desenvolvimento deste projeto, pratiquei:
+
 - Estruturação de páginas com HTML
 - Estilização com CSS
+- Classes e seletores
 - Organização de elementos visuais
 - Manipulação do DOM
 - Eventos de clique
 - Navegação entre abas
-- Criação de interfaces
+- Integração entre HTML, CSS e JavaScript
+- Criação de uma interface pessoal
+
+---
+
+## 🎓 Sobre o evento
+
+Este projeto foi desenvolvido durante a:
+
+**MapaDev Week — Dev em Dobro**
+
+📅 **Ano:** 2022  
+💻 **Conteúdos praticados:** HTML, CSS e JavaScript
+
+O evento foi utilizado como parte dos meus estudos iniciais de desenvolvimento Front-end.
+
+---
+
+## 🔗 Referência
+
+Evento e projeto desenvolvidos com orientação do **Dev em Dobro**.
+
+🔗 [GitHub do Dev em Dobro](https://github.com/devemdobro)
 
 ---
 
 <p align="center">
-  Um dos projetos que marcaram o início dos meus estudos em Front-end. 🚀
+  Projeto desenvolvido durante meus estudos iniciais de Front-end. 🚀
 </p>
