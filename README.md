@@ -9,11 +9,11 @@ O projeto apresenta informações pessoais, uma seção sobre mim e links para m
 ## 📸 Preview
 
 <p align="center">
-  <img src="./assets/Redes-sociais.png" alt="Mini Portfólio - Sobre mim" width="700">
+  <img src="./src/assets/Sobre-mim.png" alt="Mini Portfólio - Sobre mim" width="700">
 </p>
 
 <p align="center">
-  <img src="./assets/Sobre-Mim.png" alt="Mini Portfólio - Redes sociais" width="700">
+  <img src="./src/assets/Redes-sociais.png" alt="Mini Portfólio - Redes sociais" width="700">
 </p>
 
 ---
